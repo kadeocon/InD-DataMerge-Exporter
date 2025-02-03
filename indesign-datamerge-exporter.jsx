@@ -1,3 +1,12 @@
+/*************************************************************************
+ * InDesign Data Merge Exporter Script
+ * Version: 1.0.0
+ * Created: 2025-02-03
+ * Author: Kade O'Connor
+ * License: MIT
+ * Repository: https://github.com/kadeocon/InD-DataMerge-Exporter
+ *************************************************************************/
+
 // Export InDesign pages as separate PDFs with custom naming
 // @target indesign
 // @targetengine "session"
