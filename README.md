@@ -2,7 +2,7 @@
 
 A script for Adobe InDesign that enables automated export of Data Merge-generated pages with custom naming based on page content. Perfect for creating market sheets, catalogs, or any document where you need individual pages exported with names derived from their content.
 
-![Interface example showcasing export mode, file prefix and suffix, paragraph style to pull naming from, and extension] (images/Screenshot-InD-Script.png)
+![Interface example showcasing export mode, file prefix and suffix, paragraph style to pull naming from, and extension](images/Screenshot-InD-Script.png)
 
 ## Features
 
